@@ -1,1 +1,1 @@
-Tracé d'un diagramme de distribution d'un couple acide/base
+Tracé d'un diagramme de distribution d'un couple acide/base. Cliquer sur l'image pour lancer le notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josedelamare/SPC/main?filepath=Terminale%2Fconstitution_transformation_matiere%2FFaorce_acide%2Ftaux_avancement.ipynb)
